@@ -1,29 +1,26 @@
 * {text-align: center;}
 h1{color :blue;}
-<<<<<<< HEAD
+
 h2{color : white;}
 p{color: orange;}
 .dvlpt{
 	background-color: green;
 }
-=======
+
 p{color: orange;}
 
->>>>>>> 4ec8f1de5cf1b03aafb81ea3a76b5ec4c7825e24
 header{background-color: #606060}
 
 footer{background-color: #101010}
 
 .Sommaire{background-color: #505050}
-<<<<<<< HEAD
+
 .Sommaire p{color : white;}
 .ONE{background-color : #404040}
 .ONE h2{color: white;}
-=======
 
 .ONE{background-color : #404040}
 
->>>>>>> 4ec8f1de5cf1b03aafb81ea3a76b5ec4c7825e24
 .TWO{background-color: #303030}
 
 .THREE{background-color: #202020}

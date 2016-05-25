@@ -1,0 +1,19 @@
+* {text-align: center;}
+h1{color :blue;}
+h2{color : white;}
+p{color: orange;}
+.dvlpt{
+	background-color: green;
+}
+header{background-color: #606060}
+
+footer{background-color: #101010}
+
+.Sommaire{background-color: #505050}
+.Sommaire p{color : white;}
+.ONE{background-color : #404040}
+.ONE h2{color: white;}
+.TWO{background-color: #303030}
+
+.THREE{background-color: #202020}
+
